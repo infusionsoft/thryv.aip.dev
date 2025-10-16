@@ -5,3 +5,13 @@ site/htmlcov
 
 # mypy
 .mypy_cache
+
+# JetBrains
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# Mac
+.DS_Store
