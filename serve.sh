@@ -27,6 +27,7 @@ fi
 
 # Run the image.
 docker run --rm \
+  --name aip-site-dev \
   -p 4000:4000/tcp -p 4000:4000/udp \
   -p 35729:35729/tcp -p 35729:35729/udp \
   --mount type=bind,source=`pwd`,destination=/code/,readonly \
