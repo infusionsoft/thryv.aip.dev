@@ -21,18 +21,3 @@ shortcuts:
     button:
       href: /contributing
       text: Contribute to the project
-  - title: Want to use AIPs for your organization?
-    description: |
-      AIPs are designed to be useful outside of Google. Take a look at how you
-      might choose which AIPs are best suited to your API design needs.
-    button:
-      href: /adopting
-      text: Learn more
-  - title: Still have questions?
-    description: |
-      Free free to take a look at the <a href="/faq">frequently asked
-      questions</a>. If you don't find an answer there, file an issue on our
-      GitHub repository.
-    button:
-      href: https://github.com/aip-dev/google.aip.dev/issues
-      text: Ask us on GitHub
